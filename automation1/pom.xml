@@ -5,8 +5,8 @@
                              http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.abhibus</groupId>
-    <artifactId>AbhiBusAutomation</artifactId>
+    <groupId>abhibus</groupId>
+    <artifactId>automation1</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
